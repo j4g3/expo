@@ -11,7 +11,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "~38.0.0",
+    "expo": "https://github.com/j4g3/expo.git",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.0.tar.gz",
